@@ -47,11 +47,14 @@ OWNER_ID = int(getenv("OWNER_ID", 5948367761))
 # ----------------------------------------------------------------
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # ----------------------------------------------------------------
+HEROKU_API_KEY = getenv("HEROKU_API_KEY")
+# ----------------------------------------------------------------
+
 API_KEY = getenv("API_KEY") or "StrangerApia3075f5"
 API_BASE_URL = getenv("API_BASE_URL") or "https://riyabots.site"
-----------------------------------
-DEEP_API = getenv("DEEP_API")
-# ----------------------------------------------------------------
+
+GPT_API = getenv("GPT_API")
+# -------------------------------------------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
     "https://github.com/Vipchor/Naisha",
