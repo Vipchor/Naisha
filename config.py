@@ -47,9 +47,8 @@ OWNER_ID = int(getenv("OWNER_ID", 5948367761))
 # ----------------------------------------------------------------
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # ----------------------------------------------------------------
-HEROKU_API_KEY = getenv("HEROKU_API_KEY")
-# ----------------------------------------------------------------
-GPT_API = getenv("GPT_API")
+API_KEY = getenv("API_KEY", "StrangerApia3075f5")
+API_BASE_URL = getenv("API_BASE_URL", "http://riyabots.site")
 # ----------------------------------------------------------------
 DEEP_API = getenv("DEEP_API")
 # ----------------------------------------------------------------
