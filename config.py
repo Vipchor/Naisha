@@ -18,7 +18,7 @@ OWNER_USERNAME = getenv("OWNER_USERNAME","@vip_ankit_121")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME" , "@vip_ankit_121)
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "@vip_ankit_121")
+BOT_NAME = getenv("BOT_NAME" , "@Ishika_musicbot)
 # ---------------------------------------------------------
 ASSUSERNAME = getenv("ASSUSERNAME" , "MREVO")
 # ---------------------------------------------------------
@@ -68,8 +68,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Nkdcrazy")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/NKD_Korean_Group")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/shree_update")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+oMIfGm54Wy82ODZk")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
